@@ -1,6 +1,7 @@
 # React + Firebase <3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hice este proyecto para aprender a usar React y obviamente combinarlo con Firebase.
+Si quieren usarlo sigan los pasos de mas abajo. Está heco con [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
